@@ -1,0 +1,1 @@
+exports.arts = require('./art')
