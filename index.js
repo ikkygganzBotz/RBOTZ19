@@ -2402,7 +2402,7 @@ ${setting.linkgrub3}
 		    case 'menu': case 'help':
 		    if (isBanned) return reply("MAAF ANDA TELAH DI BANNED")
 		  	menu5 = `${aart}\nMENAMPILKAN MENU ${namabot}`
-			menu3 = `┏━━━━❲ *BOTZ V19.2* ❳━━━━━
+			menu3 = `┏━━━━❲ *BOT ツˣᴿᶻズガx* ❳━━━━━
 ┃ HALOO!! ${codename} <3
 ┗━━━━━━━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━━━━━━
@@ -2833,7 +2833,7 @@ ${setting.linkgrub3}
 ┗━━━━━━━━━━━━━━━━━━━━━━━`    
 // NOTE : JGN HAPUS THX TO!!
 // HAPUS? GW GA UP LAGI OKY
-menu4 = "BOTZ VERSI 19 NEWS : https://myselfff.herokuapp.com/file"  
+menu4 = "LINK GC ANIME : https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J"  
             try{ 
             sound = fs.readFileSync('./X2/menu.mp3')
             nayla.sendMessage(from, sound, audio, {mimetype: "audio/mp4", ptt:true, quoted:nay1})
