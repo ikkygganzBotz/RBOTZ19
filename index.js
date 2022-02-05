@@ -2402,7 +2402,7 @@ ${setting.linkgrub3}
 		    case 'menu': case 'help':
 		    if (isBanned) return reply("MAAF ANDA TELAH DI BANNED")
 		  	menu5 = `${aart}\nMENAMPILKAN MENU ${namabot}`
-			menu3 = `┏━━━━❲ *BOTZ V19.2* ❳━━━━━
+			menu3 = `┏━━━━❲ *ツˣᴿᶻズガx* ❳━━━━━
 ┃ HALOO!! ${codename} <3
 ┗━━━━━━━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━━━━━━
